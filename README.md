@@ -29,4 +29,14 @@ The analysis of the election show that:
     
 ## Challenge Overview
 
+Now that we have broken down the number of votes for each candidate, we are asked to break it down further into each county. 
+
 ## Challenge Summary
+
+County votes:
+- Jefferson: 10.5% (38,855)
+- Denver: 82.8% (306,055)
+- Arapahoe: 6.7% (24,801)
+
+Largest County Turnout:
+- Denver
